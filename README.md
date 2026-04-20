@@ -1,0 +1,1 @@
+A simple REST API built with Spring Boot and Spring Data JPA to manage student records. It supports basic CRUD operations such as adding, viewing, updating, and deleting students. The project follows a clean layered architecture with Controller, Repository, and Entity components, making it easy to understand and extend.
